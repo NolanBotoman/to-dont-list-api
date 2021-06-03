@@ -11,6 +11,7 @@ php artisan serve
 ## Warning
 ```
 Project doesn't use */api/* middleware, URLs are raw -> domain/auth/register
+```
 
 ## Online Hosting
 ```
